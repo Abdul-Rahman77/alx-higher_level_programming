@@ -24,3 +24,4 @@ elif [ "$cont" = "no" ]; then
 else
 	echo -e "yes/no expected"
 fi
+clear
